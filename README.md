@@ -1,6 +1,6 @@
 # BankingSystem-Java
 A Java-based console application that simulates basic bank operations like deposit, withdrawal, balance check, and transaction history using Object-Oriented Programming.
-# 🏦 Bank Account Simulation – Java Console Application
+# Bank Account – Java Console Application
 
 This Java program simulates a simple **banking system** where a user can:
 - Deposit money
