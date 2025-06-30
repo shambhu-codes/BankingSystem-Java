@@ -28,14 +28,14 @@ This Java program simulates a simple **banking system** where a user can:
 Enter the account holder name: Shambhu Gouda
 Enter the account number: 12345678901
 
-====Bank Menu=====
-1.Deposit
-2.Withdraw
-3.Check Balance
-4.View Your Transaction History
-5.View Account Details
-6.Exit
-Choose an option(1-6): 1
-Enter amount to deposit: 5000
+====Bank Menu===== <br>
+1.Deposit <br>
+2.Withdraw <br>
+3.Check Balance <br>
+4.View Your Transaction History <br>
+5.View Account Details <br>
+6.Exit <br>
+Choose an option(1-6): 1 <br>
+Enter amount to deposit: 5000 <br>
 5000.0 deposited successfully.
 
