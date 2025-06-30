@@ -11,7 +11,7 @@ This Java program simulates a simple **banking system** where a user can:
 
 ## Features
 
-- Account creation with **10 or 11-digit account number validation**
+- Account creation with account number validation
 - Safe deposit and withdrawal with validation
 - Maintains and displays full transaction history
 - Account detail view (name and account number)
@@ -22,5 +22,20 @@ This Java program simulates a simple **banking system** where a user can:
 2. Open terminal or command prompt.
 3. Compile the Java file:
    javac BankAccount.java <br>
-Run the program:
+4.Run the program:
   java BankAccount
+## Simple Output
+Enter the account holder name: Shambhu Gouda
+Enter the account number: 12345678901
+
+====Bank Menu=====
+1.Deposit
+2.Withdraw
+3.Check Balance
+4.View Your Transaction History
+5.View Account Details
+6.Exit
+Choose an option(1-6): 1
+Enter amount to deposit: 5000
+5000.0 deposited successfully.
+
