@@ -20,12 +20,12 @@ This Java program simulates a simple **banking system** where a user can:
 ##  How to Run
 1. **Clone or Download** this repository.
 2. Open terminal or command prompt.
-3. Compile the Java file:
+3. Compile the Java file: <br>
    javac BankAccount.java <br>
-4.Run the program:
+4.Run the program: <br>
   java BankAccount
 ## Simple Output
-Enter the account holder name: Shambhu Gouda
+Enter the account holder name: Shambhu Gouda <br>
 Enter the account number: 12345678901
 
 ====Bank Menu===== <br>
