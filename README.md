@@ -21,6 +21,6 @@ This Java program simulates a simple **banking system** where a user can:
 1. **Clone or Download** this repository.
 2. Open terminal or command prompt.
 3. Compile the Java file:
-   javac BankAccount.java
+   javac BankAccount.java <br>
 Run the program:
   java BankAccount
